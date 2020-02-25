@@ -2,3 +2,4 @@ dev branch
 
 
 master add new line
+dev new line
